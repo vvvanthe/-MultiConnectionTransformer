@@ -47,7 +47,7 @@ We achieved better performance when compared to [EDSR](https://github.com/sanghy
 
 
   
-- More detailed comparison between MCT and a representative CNN-based model EDSR, CARN and FALSA-A (classical image SR, X2)
+- More detailed comparison between MCT and a representative CNN-based model EDSR, CARN and FALSA-A (classical image SR, X2, no compression)
 
 | Method                                               | Training Set    | #Params | Y-PSNR/Y-SSIM <br /> on Set5 | Y-PSNR/Y-SSIM <br /> on Set14 | Y-PSNR/Y-SSIM <br /> on BSD100 | Y-PSNR/Y-SSIM <br /> on Urban100 | Y-PSNR/Y-SSIM <br /> on Manga109 |
 |:-----------------------------------------------------| :---:        |:-------:|:----------------------------:|:-----------------------------:|:------------------------------:|:--------------------------------:|:--------------------------------:|
